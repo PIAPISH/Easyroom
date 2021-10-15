@@ -1,2 +1,2 @@
-# Easyroom
+# Easyroomers
 Hotel Project
